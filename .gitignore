@@ -6,3 +6,5 @@ __pycache__/
 .ipynb_checkpoints/
 *.pth.tar
 *.tar.gz
+**/REDDIT-BINARY.pkl
+**/REDDIT-BINARY/
