@@ -209,7 +209,7 @@ def main():
         or prog_args.multigraph_class >= 0
         or prog_args.graph_idx >= 0
     )
-    graph_mode = True
+    # graph_mode = True
     # build model
     print("Method: ", prog_args.method)
     if graph_mode: 

@@ -8,3 +8,6 @@ __pycache__/
 *.tar.gz
 **/REDDIT-BINARY.pkl
 **/REDDIT-BINARY/
+**/*.pth.tar
+**/*.npy
+**/Attack GNNEx/log/
