@@ -11,3 +11,6 @@ __pycache__/
 **/*.pth.tar
 **/*.npy
 **/Attack GNNEx/log/
+**/*.pth.tar
+**/*.npy
+**/Attack GNNEx/log/
