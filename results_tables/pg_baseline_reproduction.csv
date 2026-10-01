@@ -1,0 +1,9 @@
+Explainer,Dataset,Dataset_Name,Attack,Valid_Cases,Base_GCN_Acc_Pct,Misalignment_Ratio_Pct
+PGExplainer,syn3,Tree-Cycle,loss,40,93.0,37.5
+PGExplainer,syn3,Tree-Cycle,deduction,40,93.0,58.75
+PGExplainer,syn1,BA-House,loss,40,92.71,24.17
+PGExplainer,syn1,BA-House,deduction,40,92.71,38.75
+PGExplainer,mutag,MUTAG,loss,40,86.28,61.5
+PGExplainer,mutag,MUTAG,deduction,40,86.28,65.5
+PGExplainer,REDDIT-BINARY,Reddit-Binary,loss,36,80.88,58.06
+PGExplainer,REDDIT-BINARY,Reddit-Binary,deduction,36,80.88,48.89
